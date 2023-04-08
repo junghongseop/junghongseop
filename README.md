@@ -11,17 +11,18 @@
 </div>
 <h2>:computer:Main Tech Stack:computer:</h2> 
 <div align = left>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+ not yet
 </div>
 <h2>:baby_chick:Sub Tech Stack:baby_chick:</h2>
 <div align = left>
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
-
+ not yet
 </div>
 <h2>:hatching_chick:Studying:hatching_chick:</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
 </div>
 
 ## My Stats 
