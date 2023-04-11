@@ -9,15 +9,15 @@
 </a>
 
 </div>
-<h2>:computer:Main Tech Stack:computer:</h2> 
+<h2>Main Tech Stack</h2> 
 <div align = left>
  not yet
 </div>
-<h2>:baby_chick:Sub Tech Stack:baby_chick:</h2>
+<h2>Sub Tech Stack</h2>
 <div align = left>
  not yet
 </div>
-<h2>:hatching_chick:Studying:hatching_chick:</h2>
+<h2>Studying</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
