@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8df3fc&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=hongseop's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
 
-<h1>:sparkles:정홍섭(junghongseop):sparkles:</h2>
+<h1>정홍섭(junghongseop)</h2>
 <h3>백엔드 개발자가 꿈인 고1입니다!!</h3>
 <h2>SNS & e-mail</h2>
 <div align = left>
@@ -8,15 +8,6 @@
 <img alt="Gmail" src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
-</div>
-<h2>Main Tech Stack</h2> 
-<div align = left>
- not yet
-</div>
-<h2>Sub Tech Stack</h2>
-<div align = left>
- not yet
-</div>
 <h2>Studying</h2>
 <div align = left>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
