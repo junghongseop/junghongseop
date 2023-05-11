@@ -3,7 +3,7 @@
 <div align="center"><h3>SNS & e-mail</h3></div>
 <div align = center>
  <img alt="Gmail" src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-<a href="https://www.instagram.com/ju.sub._.17/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/@wjd_ghdtjq-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 </a>
 
 <div align="center"><h3>📚Studying📚</h></div>
