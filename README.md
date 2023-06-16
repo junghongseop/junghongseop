@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-forsquare&logo=react&logoColor=white"> 
 </div>
  
  <div align="center"><h3>Tools</h3></div>
