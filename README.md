@@ -6,9 +6,7 @@
 <img src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </a>
 
-<div align="center"><h3>📚Studying📚</h></div>
-<div align = center>
- 
+<div align="center"><h3>📚Studying📚</h3></div>
  <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white">
@@ -20,10 +18,14 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-forsquare&logo=react&logoColor=white"> 
 </div>
  
+ <div align="center><h3>studying frameworks</h3></div>
+ <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+ 
  <div align="center"><h3>Tools</h3></div>
  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white">
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  </div>
 
 
