@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
- <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"
+ <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
   <div align="center"><h4>Framework</h4>
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square&logo=react&logoColor=white&">
