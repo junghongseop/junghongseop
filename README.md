@@ -15,13 +15,15 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-forsquare&logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-forsquare&logo=react&logoColor=white"> 
 </div>
  
- <div align="center><h3>studying frameworks</h3></div>
+ <div align="center"><h3>studying frameworks</h3></div>
  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+ </div>
  
  <div align="center"><h3>Tools</h3></div>
+ <div ali="center>
  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white">
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
