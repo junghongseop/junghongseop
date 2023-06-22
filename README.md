@@ -38,6 +38,12 @@
 <img src="https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=flat-square-badge&logo=intellijidea&logoColor=white">
 </div>
 
+<div align="center"><h3>idea board</h3></div>
+<div align="center">
+https://www.notion.so/35d916c1fb874a62b437f609c7aef3fe?pvs=4
+</div>
+
+
 
 <div align="center"><h3>My Git Stats</h3></div> 
 
