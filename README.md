@@ -6,9 +6,10 @@
 
 <div align="center"><h3>SNS & e-mail</h3></div>
 <div align = center>
-<img src="https://img.shields.io/badge/@wjd_ghdtjq-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white">
-<img src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335?style=flat-square-badge&logo=gmail&logoColor=white"></a>
-</a>
+<a href="https://https://www.instagram.com/wjd_ghdtjq/" target="_blank"><img src="https://img.shields.io/badge/@wjd_ghdtjq-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white">
+<img src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335?style=flat-square-badge&logo=gmail&logoColor=white">
+<a href="https://www.notion.so/35d916c1fb874a62b437f609c7aef3fe?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square-badge&logo=Notion&logoColor=white">
+<a href="https://velog.io/@wjd_ghdtjq" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square-badge&logo=Velog&logoColor=white">
 
 <div align="center"><h3>📒Studying📒</h3></div>
  <div align="center">
