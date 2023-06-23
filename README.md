@@ -1,7 +1,7 @@
 <br><br>
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=Hello%2C+I%E2%80%99m+hongsub.;back-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=Hello%2C+I%E2%80%99m+hongsub.;back-end+developer;app+developer)](https://git.io/typing-svg)
 ### 어디에서나 도움이 되는 백엔드& 앱 개발자가 되는 것이 ⭐꿈⭐ 입니다.
 
 <div align="center"><h3>SNS & e-mail</h3></div>
