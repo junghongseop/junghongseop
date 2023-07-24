@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square-badge&logo=react&logoColor=white">
   
 <div align="center"><h3>📖To study📖</h3>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square-badge&logo=react&logoColor=white&">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square-badge&logo=Android%20Studio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square-badge&logo=spring&logoColor=white">
