@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square-badge&logo=React&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square-badge&logo=Python&logoColor=white">
   
-<div align="center"><h3>📖To study📖</h3>
+<div align="center"><h3>📖Study I want to do📖</h3>
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square-badge&logo=react&logoColor=white&">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square-badge&logo=Android%20Studio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square-badge&logo=spring&logoColor=white">
