@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square-badge&logo=React&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square-badge&logo=Node.js&logoColor=white">
   
 <div align="center"><h3>📖Study I want to do📖</h3>
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square-badge&logo=react&logoColor=white&">
