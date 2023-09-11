@@ -48,7 +48,6 @@
 
 <div align="center"><h3>My Git Stats</h3></div> 
 
-[![hongseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghongseop&theme=calm)](https://github.com/junghongseop/github-readme-stats)
-
+[![hongseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghongseop&theme=calm)](https://github.com/junghongseop/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghongseop&layout=compact&theme=gruvbox)](https://github.com/junghongseop/github-readme-stats)
  
