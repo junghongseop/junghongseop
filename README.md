@@ -12,7 +12,7 @@
 <a href="https://velog.io/@wjd_ghdtjq" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square-badge&logo=Velog&logoColor=white">
 <a href="https://sassy-cloth-fbe.notion.site/5005f6975c65436eb757c1c12d659237" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square-badge&logo=Notion&logoColor=white">
 
-<div align="center"><h3>📒Studying📒</h3></div>
+<div align="center"><h3>Studying</h3></div>
  <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-badge&logo=Css3&logoColor=white">
