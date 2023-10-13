@@ -2,7 +2,7 @@
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=Hello%2C+I%E2%80%99m+hongsub.;back-end+developer;app+developer)](https://git.io/typing-svg)
-### 완벽하진 않지만 완벽에 가까워지고 싶은 배겐드 & 앱 개발자가 되고 싶습니다!
+### 완벽하진 않지만 완벽에 가까워지고 싶은 백엔드 & 앱 개발자가 되고 싶습니다!
 ### UI/UX와 프론트 엔드에도 관심이 많습니다!
 
 <div align="center"><h3>SNS & e-mail</h3></div>
