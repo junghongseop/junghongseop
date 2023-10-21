@@ -24,15 +24,14 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square-badge&logo=Mysql&logoColor=white">
   
 <div align="center"><h3>📖Study I want to do📖</h3>
-<img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square-badge&logo=react&logoColor=white&">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square-badge&logo=Android%20Studio&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square-badge&logo=Android%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square-badge&logo=flutter&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square-badge&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square-badge&logo=Swift&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square-badge&logo=Spring Security&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square-badge&logo=Kotlin&logoColor=white">
 </div>
  
 <div align="center"><h3>🔧Tools🔧</h3></div>
