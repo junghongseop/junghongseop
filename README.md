@@ -25,8 +25,7 @@
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square-badge&logo=flutter&logoColor=white">
   
 <div align="center"><h3>📖Study I want to do📖</h3>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square-badge&logo=Android%20Studio&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square-badge&logo=spring&logoColor=white"><br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square-badge&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square-badge&logo=Swift&logoColor=white"><br>
@@ -41,6 +40,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square-badge&logo=Visual%20Studio%20Code&logoColor=white"><br>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=flat-square-badge&logo=intellijidea&logoColor=white">
+ <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square-badge&logo=Android%20Studio&logoColor=white">
 </div>
 
 <div align="center"><h3>My Git Stats</h3></div> 
