@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square-badge&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square-badge&logo=Swift&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square-badge&logo=Spring Security&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square-badge&logo=Dart&logoColor=white"> 
 </div>
  
 <div align="center"><h3>🔧Tools🔧</h3></div>
