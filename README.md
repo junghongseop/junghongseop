@@ -14,7 +14,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 <a href="https://www.instagram.com/wjd_ghdtjq/" target="_blank"><img src="https://img.shields.io/badge/@wjd_ghdtjq-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"><br>
-<a href="https://velog.io/@wjd_ghdtjq" target="_blank"><img src="https://img.shields.io/badge/wjdghdtjq-20C997?style=flat-square-badge&logo=Velog&logoColor=white"> <img src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335?style=flat-square-badge&logo=gmail&logoColor=white">
+<a href="https://velog.io/@wjd_ghdtjq" target="_blank"><img src="https://img.shields.io/badge/wjdghdtjq-20C997?style=flat-square-badge&logo=Velog&logoColor=white"></a>
+<img src="https://img.shields.io/badge/a01082372487@gmail.com-EA4335?style=flat-square-badge&logo=gmail&logoColor=white">
 
 ---
 
