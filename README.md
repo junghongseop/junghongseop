@@ -22,7 +22,7 @@
 <div align="center">
 <b>My Portfolio</b>
 <div align="center">
-<a href="https://sassy-cloth-fbe.notion.site/5005f6975c65436eb757c1c12d659237?pvs=4" target="_blank"> Notion
+<a href="https://sassy-cloth-fbe.notion.site/e122a715530f452998b15be52a20689b" target="_blank"> Notion
 </div>
 
 ---
