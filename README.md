@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=81BEF7&center=true&width=435&lines=WELCOME%2C+MY+Github.;)](https://git.io/typing-svg)
 
-### 완벽하진 않지만 완벽에 가까워지려고 노력하는 백엔드 & 앱 개발자가 되고 싶습니다!
+### 완벽하진 않지만 완벽에 가까워지려고 노력하는 백엔드 & 앱 개발자가 되고 싶습slek
 
 ### UI/UX와 프론트 엔드에도 관심이 많습니다!
 <br>
