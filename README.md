@@ -40,7 +40,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square-badge&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square-badge&logo=Spring Boot&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square-badge&logo=TypeScript&logoColor=white">
 </div>
 
 <div align="center">
