@@ -12,8 +12,7 @@
 
 ### HONGSEOP
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
-<a href="https://www.instagram.com/wjd_ghdtjq/" target="_blank"><img src="https://img.shields.io/badge/@wjd_ghdtjq-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"><br>
+<a href="https://www.instagram.com/wjd_ghdtjq/" target="_blank"><img src="https://img.shields.io/badge/@wjd_ghdtjq-E4405F?style=flat-square-badge&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/dev.widghdtjq@gmail.com-EA4335?style=flat-square-badge&logo=gmail&logoColor=white">
 
 ---
@@ -39,8 +38,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square-badge&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square-badge&logo=Spring Boot&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square-badge&logo=Next.js&logoColor=white"><br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square-badge&logo=React&logoColor=white">
 </div>
